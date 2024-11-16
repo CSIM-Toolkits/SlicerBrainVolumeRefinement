@@ -49,7 +49,7 @@ The following image samples represents the brain volume correction that was over
 
 We hope that the `BVeR` can be helpful for your applications. If possible, recall to cite at least one of the following publications:
 
-* da Silva Senra Filho, A.C., Simozo, F.H. & Murta Junior, L.O. Brain volume refinement (BVeR): automatic correction tool as an alternative to manual intervention on brain segmentation. Res. Biomed. Eng. 37, 631–640 (2021).doi: [10.1007/s42600-021-00168-x](https://doi.org/10.1007/s42600-021-00168-x)
+* da Silva Senra Filho, A.C., Simozo, F.H. & Murta Junior, L.O. Brain volume refinement (BVeR): automatic correction tool as an alternative to manual intervention on brain segmentation. Res. Biomed. Eng. 37, 631–640 (2021).doi: [10.1007/s42600-021-00168-x](https://doi.org/10.1007/s42600-021-00168-x) [Sharable Link](https://rdcu.be/dZFFt)
 
 
 ## License
