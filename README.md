@@ -1,6 +1,10 @@
 # SlicerBrainVolumeRefinement
 
-This extension is focused to provide brain volume refinement methods on biomedical images. More details could be found in the [wiki page](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/BrainVolumeRefinement).
+![Logo](https://github.com/CSIM-Toolkits/SlicerBrainVolumeRefinement/blob/main/BrainVolumeRefinement.png)
+
+This extension is focused to provide brain volume refinement methods on biomedical images. More details could be found in the [documentation page](https://slicerbrainvolumerefinement.readthedocs.io/en/latest/).
+
+![Anterior position](https://github.com/CSIM-Toolkits/SlicerBrainVolumeRefinement/blob/main/docs/assets/BVeR-3D-Anterior.png "An BVeR output example showing the corrected brain surface")
 
 The BVeR module that provides the fine tunning of brain volumes from previous brain extracted images are also described in the following paper:
 
