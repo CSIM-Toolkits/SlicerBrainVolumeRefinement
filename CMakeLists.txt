@@ -4,7 +4,7 @@ project(BrainVolumeRefinement)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "http://slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/BrainVolumeRefinement")
+set(EXTENSION_HOMEPAGE "https://slicerbrainvolumerefinement.readthedocs.io/en/latest/")
 set(EXTENSION_CATEGORY "Segmentation")
 set(EXTENSION_CONTRIBUTORS "Antonio Carlos da S. Senra Filho, Fabricio H. Simozo, Luiz Otavio Murta Junior (University of Sao Paulo)")
 set(EXTENSION_DESCRIPTION "This extension offers algorithms to performs brain volume refinements due to previous image processing that results on small data artifacts. For instance, the BVeR method is designed to correct small oversegmentation found at brain extraction methods such as FSL-BET, FreeSurfer, AFNI, ROBEX and others.")
