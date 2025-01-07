@@ -8,7 +8,7 @@ set(EXTENSION_HOMEPAGE "https://slicerbrainvolumerefinement.readthedocs.io/en/la
 set(EXTENSION_CATEGORY "Segmentation")
 set(EXTENSION_CONTRIBUTORS "Antonio Carlos da S. Senra Filho, Fabricio H. Simozo, Luiz Otavio Murta Junior (University of Sao Paulo)")
 set(EXTENSION_DESCRIPTION "This extension offers algorithms to performs brain volume refinements due to previous image processing that results on small data artifacts. For instance, the BVeR method is designed to correct small oversegmentation found at brain extraction methods such as FSL-BET, FreeSurfer, AFNI, ROBEX and others.")
-set(EXTENSION_ICONURL "https://raw.githubusercontent.com/CSIM-Toolkits/SlicerBrainVolumeRefinement/refs/heads/master/BrainVolumeRefinement.png")
+set(EXTENSION_ICONURL "https://raw.githubusercontent.com/CSIM-Toolkits/SlicerBrainVolumeRefinement/refs/heads/main/docs/assets/BrainVolumeRefinement.png")
 set(EXTENSION_SCREENSHOTURLS "
 https://raw.githubusercontent.com/CSIM-Toolkits/SlicerBrainVolumeRefinement/refs/heads/main/docs/assets/T1-FS.png 
 https://raw.githubusercontent.com/CSIM-Toolkits/SlicerBrainVolumeRefinement/refs/heads/main/docs/assets/T1-FS-BVeR.png 
