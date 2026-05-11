@@ -6,6 +6,7 @@
 #include "itkBinaryThresholdImageFilter.h"
 #include "itkBinaryContourImageFilter.h"
 #include "itkImageRegionIterator.h"
+#include "itkImageRegionConstIteratorWithIndex.h"
 #include "itkNeighborhoodIterator.h"
 #include "itkConstantBoundaryCondition.h"
 #include "itkConstNeighborhoodIterator.h"
